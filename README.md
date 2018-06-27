@@ -17,3 +17,9 @@ This repository contains the codes written during the Training period
 * Completed a Weather app developed using React & Redux
 * Started with the React-Router tutorials and stated making a Blog App
 * *Link to the repository of the tutorial app* - https://github.com/akshatnitd/BlogApp
+
+## Day 4
+* Completed with the tutorials
+* Completed a Blog app developed with React , Redux and routes implementation
+* *Features : *Can ADD, DELETE and DISPLAY blog posts
+* *Link to the repository of the tutorial app* - https://github.com/akshatnitd/BlogApp
